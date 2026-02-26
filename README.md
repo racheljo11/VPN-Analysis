@@ -24,13 +24,10 @@ Verified IP address change using an online IP checker
 
 VPN Status: Connected
 
-Server Location: (Write country shown)
+Server Location: Netherlands
+IP Address: 149.88.27.159
 
-IP Address: Changed after connection
-
-(Screenshots attached in repository)
-
-🛡 How VPN Protects Privacy
+ How VPN Protects Privacy
 
 Encrypts internet traffic
 
