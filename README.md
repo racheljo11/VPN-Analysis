@@ -1,51 +1,54 @@
-# Task-8-VPN-Setup-and-Analysis
-VPN setup and privacy analysis using ProtonVPN
-Objective
+# VPN Analysis
 
-To understand the role of VPNs in protecting privacy and secure communication by setting up and testing a free VPN client.
+## Overview
+This project was completed as part of my cybersecurity internship to understand Virtual Private Networks (VPNs), their role in protecting network traffic, and their limitations.
 
-Tool Used
+The project explores how VPNs can help protect data in transit and mask a user's public IP address from some destinations, depending on the VPN configuration.
 
-ProtonVPN (Free Version)
+## Objectives
+- Understand the purpose of a VPN.
+- Explore how VPNs affect network traffic and public IP visibility.
+- Learn about VPN benefits, limitations, and privacy considerations.
+- Understand why VPNs are only one part of a broader security strategy.
 
- Setup Steps
+## Key Concepts
+- **Encryption:** Protects traffic between the device and the VPN server when correctly configured.
+- **IP Address Masking:** Websites may see the VPN server's public IP address instead of the user's original public IP.
+- **Privacy:** A VPN can improve privacy but does not guarantee complete anonymity.
+- **Limitations:** VPN protection depends on the provider, configuration, device security, and user behaviour.
 
-Downloaded ProtonVPN from official website
+## Tools and Technologies
+Document the VPN software, websites, and network tools actually used during this project.
 
-Created free account
+## Methodology
+1. Reviewed the basic purpose and operation of VPN technology.
+2. Examined the relationship between VPN connections and public IP address visibility.
+3. Considered the security and privacy benefits of VPN use.
+4. Identified limitations and practical precautions for safer VPN usage.
 
-Installed VPN client
+## Findings
+A VPN can protect traffic between a device and the VPN server, depending on the connection and configuration. It can also change the public IP address visible to websites.
 
-Logged in and connected to a free server
+However, a VPN does not automatically prevent phishing, malware infections, tracking through cookies, or exposure caused by unsafe browsing.
 
-Verified IP address change using an online IP checker
+Add your actual observations here if you performed practical tests. Do not include personal IP addresses or other sensitive network details.
 
- Connection Status
+## Security Recommendations
+- Use a reputable VPN provider.
+- Keep VPN software updated.
+- Use HTTPS websites.
+- Avoid sharing sensitive information with untrusted websites.
+- Remember that a VPN does not replace antivirus protection, secure authentication, or safe browsing practices.
 
-VPN Status: Connected
+## Learning Outcomes
+- Improved my understanding of VPN fundamentals.
+- Learned about IP address visibility and encrypted network connections.
+- Understood the limitations of VPNs as a cybersecurity measure.
 
-Server Location: Netherlands
-IP Address: 149.88.27.159
+## Disclaimer
+This project is intended for educational purposes only.
 
- How VPN Protects Privacy
+## Author
+**A. Rachel Joanne**
 
-Encrypts internet traffic
-
-Masks real IP address
-
-Protects data on public Wi-Fi
-
-Prevents ISP monitoring
-
- Limitations of VPN
-
-Does not protect against malware
-
-Free servers may have speed limitations
-
-Does not guarantee complete anonymity
-
-Conclusion
-The VPN successfully encrypted traffic and changed the IP address, demonstrating its role in enhancing online privacy and secure communication.
-
-The VPN successfully encrypted traffic and changed the IP address, demonstrating its role in enhancing online privacy and secure communication.
+GitHub: [@racheljo11](https://github.com/racheljo11)
